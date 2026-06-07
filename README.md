@@ -60,3 +60,6 @@ Significant data cleaning was required due to inconsistent pricing formats, miss
 - Google Colab
 - GitHub
 
+##  Visualisations
+![Weekly Revenue vs Average Discount](images/seasonality.jpg) *Strong Seasonality: Highest sales activity observed during Black Friday & Christmas season*
+
