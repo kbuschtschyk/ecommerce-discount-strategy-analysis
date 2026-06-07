@@ -53,3 +53,10 @@ Significant data cleaning was required due to inconsistent pricing formats, miss
 - Several top-performing brands achieved strong sales with moderate discounting.
 - The analysis suggests that discounts may increase sales volume, but are not sufficient on their own to drive sustainable revenue growth.
 
+## Tools & Technologies
+- Python
+- Pandas
+- Seaborn
+- Google Colab
+- GitHub
+
